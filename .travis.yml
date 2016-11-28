@@ -1,4 +1,4 @@
 language: java
 
 notifications:
-        slack: http://mm.datenhaft.org/hooks/jhpn9paf1f8rzcbbn6grh1az1a
+        webhook: http://mm.datenhaft.org/hooks/jhpn9paf1f8rzcbbn6grh1az1a
