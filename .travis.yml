@@ -1,0 +1,4 @@
+language: java
+
+notifications:
+        webhooks: https://simiil-huginn-test.herokuapp.com/users/1/web_requests/12/travissecret
