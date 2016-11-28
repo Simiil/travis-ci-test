@@ -1,4 +1,4 @@
 language: java
 
 notifications:
-        webhooks: https://simiil-huginn-test.herokuapp.com/users/1/web_requests/12/travissecret
+        slack: http://mm.datenhaft.org/hooks/jhpn9paf1f8rzcbbn6grh1az1a
